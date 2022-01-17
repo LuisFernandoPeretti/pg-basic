@@ -1,0 +1,23 @@
+{
+  "name": "pg-basic",
+  "version": "1.0.0",
+  "description": "Build resful API with PostgreSQL and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisFernandoPeretti/pg-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisFernandoPeretti/pg-basic/issues"
+  },
+  "homepage": "https://github.com/LuisFernandoPeretti/pg-basic#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pg": "^8.7.1"
+  }
+}
